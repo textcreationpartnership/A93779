@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the knights, citizens, and burgesses, of the honourable House of Commons now assembled in Parliament. The humble proposals of Captain Anthony Stampe, for regulating the abuses of the curra[] coyns, and for raising the price of money, and plate, within the kingdom of England.</title>
+            <author>Stampe, Anthony.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93779</idno>
+            <idno type="STC">Wing S5193</idno>
+            <idno type="STC">ESTC R225287</idno>
+            <idno type="EEBO-CITATION">45789412</idno>
+            <idno type="OCLC">ocm 45789412</idno>
+            <idno type="VID">172723</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93779)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172723)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2646:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the knights, citizens, and burgesses, of the honourable House of Commons now assembled in Parliament. The humble proposals of Captain Anthony Stampe, for regulating the abuses of the curra[] coyns, and for raising the price of money, and plate, within the kingdom of England.</title>
+                  <author>Stampe, Anthony.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Obediah Blagrave ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  England --  Early works to 1800.</term>
+               <term>Money supply --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172723:1" rendition="simple:additions"/>
+            <head>TO THE KNIGHTS, CITIZENS, and BURGESSES, Of the HONOURABLE Houſe of Commons Now Aſſembled in PARLIAMENT.</head>
+            <head type="sub">The humble Propoſals of Captain <hi>Anthony Stampe,</hi> for Regulating the Abuſes of the Curra<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Coyns, and for Raiſing the Price of Money, and Plate, within the KINGDOM of <hi>ENGLAND.</hi>
+            </head>
+            <p>HERE is humbly preſented to this Honourable Houſe, ſuch ſafe and profitable Ways as may ſupply the Neceſſity of their Majeſties; being agreeable to your Honours late Votes, To find out ſuch Ways and Means as may per<g ref="char:EOLhyphen"/>fect your affectionate good Intentions to their Majeſties Service, and to the accompliſhing of what is wanting to make up the groſs Sum ſo much deſired; The Propoſer hath laboured, out of his Zeal to the preſent Go<g ref="char:EOLhyphen"/>vernment, to find out the moſt acceptable, ea<g ref="char:EOLhyphen"/>ſieſt, and gratefuleſt, Ways to effect the ſame; and thereupon he humbly offers his Mite into the Scale, to turn the Beam to the Advantage of the Publick, by raiſing of ſeveral Millions of coyned Money, without laying any manner of Burthen upon their Majeſties Subjects for it, towards defraying the great Charge this Kingdom will be at in their Wars: Which he performs, by raiſing the weighty currant Coyn and Plate of this Realm, to a higher Value, and that too without Damage to the Owners; and the Overpulſh thereof accrew<g ref="char:EOLhyphen"/>ing over and above the intrinſick Value of the ſaid raiſed Money and Plate, is to redown unto their Majeſties towards the ſpeedy re<g ref="char:EOLhyphen"/>ducing of <hi>Ireland,</hi> and the effectual carrying on their War againſt <hi>France.</hi> Which ways be<g ref="char:EOLhyphen"/>ing put into Practice, will keep the weighty Money in this Realm from being further tranſported, and melted down at home; and likewiſe will be the only means to Import Foreign Gold and Silver into Their Majeſtie Royal Mint, to be Coyned into Money: And moreover, will redreſs the Complain<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f their Subjects, from being longer impoſed upon by the evil Practices of an innumerable Number of wicked Perſons, who have de<g ref="char:EOLhyphen"/>faced and diminiſhed their Majeſties currant Coyn, both of Gold and Silver in their Clipping, Fileing, Drilling, and Waſhing of the weighty Money, that the greateſt art of the running Money is clipped and light, which are ſufficient Evidences in themſelves to prove the Fact; and alſo all the currant Coyns have and are daily counterfeited with baſe mix'd Mettals, ſome of them mill'd, and pla<g ref="char:EOLhyphen"/>ted over, ringed about, to bear the Touch, and others double Silver'd and gilt, to the cheating of the Receivers. All which irre<g ref="char:EOLhyphen"/>gular and inſufferable Practices ought to be remeded, as being diſhonourable to their Ma<g ref="char:EOLhyphen"/>jeſties, and a great Grievance to the Nation. For the preventing of the like Abuſes for the future, and to bring eaſily and ſpeedily to paſs the raiſing of ſo vaſt a Fund, as he doubts not of; which with humble Submiſſion he conceives, may prove, by the Authority of this Auguſt Aſſembly an additional Supply to their Majeſties Neceſſities; beſides, it will give a vigorous Life to the now dying Trade, and Manufacture of this Kingdom, bringing along with it Peace, Security, and Tranquility at home, under their now Majeſties moſt Hap<g ref="char:EOLhyphen"/>py and Auſpicious Reign.</p>
+            <pb n="2" facs="tcp:172723:2"/>
+            <p> 
+               <hi>From theſe weighty, needful, and preſſing, Conſi<g ref="char:EOLhyphen"/>derations, follows his Propoſitions and Reaſons, to make good the Sufficiency of his ſaid Propoſals.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>THat all the currant Money, both of Gold and Silver, within this Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> which is not clip'd or defac'd, he humbly propoſeth, may be ordered to be brought into Their Majeſties <hi>Mint,</hi> and other places to be ap<g ref="char:EOLhyphen"/>pointed through the Realm, to receive from thence their Majeſties Royal Stamp to be ſtruck upon all the ſaid Money, denoting what each of the ſeveral Coyns are raiſed in value, to paſs currant for in all Payments whatſoever, by the Authority of this preſent Parliament; <hi>viz.</hi> Two Pence to paſs for <hi>Two Pence Half penny Four Mites,</hi> Three Pence to paſs for <hi>Four Pence,</hi> a quarter of a Thirteen-pence-half-penny to paſs for <hi>Four-pence-half-penny,</hi> Four Pence to paſs for <hi>Five Pence Far<g ref="char:EOLhyphen"/>thing Two Mites,</hi> Four-pence-half-penny to paſs for <hi>Six Pence,</hi> Six Pence to paſs for <hi>Eight Pence,</hi> half a Thirteen-Pence-half-penny to paſs for <hi>Nine Pence,</hi> Nine Pence to paſs for <hi>Twelve Pence,</hi> Twelve Pence to paſs for <hi>One Shilling</hi> and <hi>Four Pence,</hi> half a Crown to paſs for <hi>Three Shillings and Four Pence,</hi> and a Crown to paſs for <hi>Six Shillings and Eight Pence.</hi> In like manner all the Gold Coyn are to be raiſed, <hi>viz.</hi> A Guinea, which now goes for Twenty one Shillings and Six Pence, to paſs for <hi>Twenty Eight Shillings and Eight Pence,</hi> a half Guinea to paſs for <hi>Fourteen Shil<g ref="char:EOLhyphen"/>lings and Four Pence,</hi> an old broad Twenty Shilling piece, which now goes without Au<g ref="char:EOLhyphen"/>thority, for Twenty three Shillings and Six Pence, to paſs for <hi>Thirty one Shillings and Four Pence,</hi> the Ten Shilling piece, which now goes for Eleven Shillings and nine Pence, to paſs for <hi>Fifteen Shillings and Eight Pence,</hi> and the Five Shilling piece, which now goes for Five Shillings and Ten Pence half Penny, to paſs for <hi>Seven Shillings;</hi> and the old broad Twenty two Shilling piece, which now goes, without Authority, for Twenty Five Shillings and Six Pence, to paſs for <hi>One Pound Fourteen Shillings,</hi> and the Eleven Shil<g ref="char:EOLhyphen"/>ling piece to paſs for <hi>Seventeen Shillings,</hi> and the Five Shillings and Six Penny piece to paſs for <hi>Eight Shillings and Six Pence.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>That the Owners, or bringers in of any one kind of Coyn, be it Gold or Silver, is to deliver Four into the <hi>Mint,</hi> or other places appointed, and to receive out Three of the ſame kind of Coyn with Their Majeſties Stamp ſtruck thereon with their ſeveral weights; which will then by vertue thereof be made of equal Value to the ſaid Four Pieces: More eſpecially the Gold, Crown, and half Crown pieces, are to be weighed and gaged, which ways will diſcover the currant Mo<g ref="char:EOLhyphen"/>ney from the Counterfeited. As for Inſtance, let Four Ninepences be delivered into the <hi>Mint, &amp;c.</hi> Which now goes for Three Shil<g ref="char:EOLhyphen"/>lings, the bringers in of them are to receive out Three of the ſame ſtamped Ninepences, which are then to paſs at Twelve Pence a<g ref="char:EOLhyphen"/>piece; which ſaid Three are of equal Value to the ſaid Four.</p>
+               <p>Le<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Four Guineas of Twenty one Shillings and Six Pence a piece, be delivered in like manner into any one of the ſaid places, which comes to Four Pounds Six Shillings, they ſhall receive out from thence Three Guineas, which are ſo ſtamped at Twenty Eight Shil<g ref="char:EOLhyphen"/>lings and Eight Pence <hi>per</hi> piece, which exactly comes to Four Pound Six Shillings, which ſaid Three Guineas ſtamped are of equal Va<g ref="char:EOLhyphen"/>lue and Worth to the ſaid Four Guineas un<g ref="char:EOLhyphen"/>ſtamped. This Proportion holds good in all the reſt of the ſaid Coyns; as Eeight de<g ref="char:EOLhyphen"/>livered, Six to be taken out; and ſo is 16 to 12, 20 to 15, 32 to 24, 40 to 30, 400 to 300, 8000 to 6000, <hi>&amp;c.</hi> The telling of this raiſed Money, is as eaſie as the Money now paſſable.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>That Their Majeſties would be graciouſly pleaſed (for the preventing of the future clipping, <hi>&amp;c.</hi> of the currant Coyn of this Realm) to cauſe their Royal Proclamation for the crying down of clip'd Money from being any longer Currant, and to be refuſed in all Payments whatſoever; and be from thence deemed no longer Money but Bullion. After all the weighty Money of Gold and Sil<g ref="char:EOLhyphen"/>ver is ſtamped, as aforeſaid, then the ſaid clip'd Coyn or Bullion (by another Procla<g ref="char:EOLhyphen"/>mation) is to be brought, or ſent, in <hi>Specie,</hi> unto Their Majeſties ſaid <hi>Mint,</hi> to be melted down, and coyned into milled Money, with their new raiſed Value and Weight to be ex<g ref="char:EOLhyphen"/>preſſed in their ſeveral Coyns, not deviating from the uniform Standard that now is, the Owners or bringers in of the ſaid clip'd Mo<g ref="char:EOLhyphen"/>ney, ſhall deliver into the Office of the <hi>Mint</hi> Four Pieces of any one kind, and they ſhall receive out from thence Three weighty ſtamped pieces of the ſame Coyn in full lieu thereof, being of equal Value to what the Owners received and took them for at firſt; and ſo in proportion to greater Num<g ref="char:EOLhyphen"/>bers, as in the foregoing Paragraphs, the Owners will thereby be no Looſers for ſo profitable an Exchange.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>That the raiſing of the Currant Coyn of <hi>England</hi> thus, will not only bring in all the Money both of Gold and Silver, as well the
+<pb n="3" facs="tcp:172723:2"/>hoarded, as the running Money, to Their Majeſties <hi>Mint,</hi> and other places appointed, to be Stamped, as aforeſaid, for no Money which has not the ſaid Stamps are to go for no more then they now paſs for, till they have received the ſaid Stamps; and if any of the ſaid Money ſo Stamped ſhould after<g ref="char:EOLhyphen"/>wards be Clipped, Filed, Drilled, or Waſh<g ref="char:EOLhyphen"/>ed, and fall ſhort of their ſaid Weight, they are not then to paſs as Currant Money, but to be refuſed by all Perſons who are to re<g ref="char:EOLhyphen"/>ceive the ſame.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>That if all the Currant Money in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> were brought into the <hi>Mint</hi> to be melt<g ref="char:EOLhyphen"/>ed down, to have a greater Allay added to the New Coyn, and the ſaid New Coyn raiſed to a higher Value then the preſent Coyn now goes for, as ſome Perſon has propoſed in Print ſo to do, purpoſely to raiſe Their Majeſties great Sums of Money thereby; now if this Project were to take effect, it would draw a greater Evil upon the Kingdom then the Clip'd, Light and Falſe, Money does; and the reaſon thereof is, ſuch Money will be eaſily Counterfeited with the ſame fineneſs, becauſe the Gold and Silver is not as yet raiſed to a higher Va<g ref="char:EOLhyphen"/>lue, which will incourage, increaſe, and in<g ref="char:EOLhyphen"/>rich, Numbers of Unlawful Coyners, to the Impoveriſhing of this Kingdom. But the raiſing of the Currant Money to a high<g ref="char:EOLhyphen"/>er Value above the Intrinſick, is both Ho<g ref="char:EOLhyphen"/>nourable, Safe, and very Profitable, to Their Majeſties, and likewiſe Beneficial to Their Subjects.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>That if all the Currant Coyn of Gold and Silver were promiſcuouſly brouht into the <hi>Mint</hi> to be melted down, and new Coyned to the new raiſed Value, it would in all probability take up above Two Years time to have the ſame performed, which Their Majeſties moſt Urgent Occaſions can<g ref="char:EOLhyphen"/>not permit of, though it is the Pro<g ref="char:EOLhyphen"/>poſer's chief Aim to have the Currant Mo<g ref="char:EOLhyphen"/>ney to be Milled, which is a work of time, but the broad and weighty Money firſt to be Stamped, together with all the Plate here<g ref="char:EOLhyphen"/>after mentioned, which will bring in ſpeedi<g ref="char:EOLhyphen"/>ly, as he doubts not of, ſeveral Millions of Money over and above all Charges, in re<g ref="char:EOLhyphen"/>gard there is an extraordinary Neceſſity, that a Bountiful Supply ſhould be given to Their Majeſties, in carrying Vigorouſly on their Chargeable Wars, which will not on<g ref="char:EOLhyphen"/>ly be a Safeguard unto this Nation, but the Preſervation of the Proteſtant Religion both at home and abroad, and the Eſtabliſhed Laws of the Kingdom from being Invaded, which will give great Incouragement unto Trade and Manufacture.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>That if the Clipping, Fileing, Drilling, and Waſhing, of the Currant Money of <hi>England</hi> be not timely ſtopped, in ſome few Years there will not be found amongſt all the running Money one broad Piece but what will be Clip'd, the Guineas Filed, Dril<g ref="char:EOLhyphen"/>led, and Waſhed, and all the reſt of the Money made light, he humbly Conceives, there is no better way to prevent theſe grand Abuſes, but by raiſing the ſaid Money to a higher Value, as is humbly Propoſed.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>That all the Plate in this Kingdom be brought or ſent to convenient places appoint<g ref="char:EOLhyphen"/>ed, in all the Cities and great Towns, where<g ref="char:EOLhyphen"/>by every piece of Plate, great or ſmall, may receive Their Majeſties Royal Stamp to be ſtruck upon each Plate of them, and the Owners of the ſaid Plate to pay unto Their Majeſties for the ſaid Stamp Fiveteen Pence <hi>per</hi> Ounce, being one Penny leſs to the ſaid new raiſed Value upon Money, which Plate ſo ſtamped, at any time ſhall be exchanged at Their Majeſties <hi>Mint,</hi> for ready Money, to the full new raiſed Value, according to the weight of the ſaid Plate; and the Gold<g ref="char:EOLhyphen"/>ſmiths, and others, which Sell Plate, the Buyers are to allow again to the Goldſmiths the ſaid Fiveteen Pence <hi>per</hi> Ounce for the ſaid Stamp, till the ſaid bought Plate are brought to the <hi>Mint</hi> to be Sold as aforeſaid; ſo the Owners of any Plate thus, can be no looſers thereby, therefore the Money and Plate ought to be raiſed to the ſaid Value, for the Supplying the great Neceſſities of the Kingdom.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>That in regard the Goldſmiths having ſtocks of Plate by them, ſhould have a Twelve Months time, or more, given them to pay Quarterly into Their Majeſties for all their Plate ſo Stamped.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>That the Wyer-drawers are to pay Their Majeſties for every Ounce of fine Silver they work into Wyer, Eighteen Pence <hi>per</hi> Ounce, and for every Ounce of Guilded Wyer to pay Twenty One Pence, and for every Ounce of right Gold Wyer Twenty Two Shillings. The Gold-beaters are to pay in like manner unto Their Majeſties, Eighteen Pence <hi>per</hi> Ounce for fine Silver, and Twenty Two Shillings <hi>per</hi> Ounce of
+<pb n="4" facs="tcp:172723:3"/>fine Gold which they work into Leaves, in regard their Work is not Stampable.</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>That Their Majeſties would be graciouſ<g ref="char:EOLhyphen"/>ly pleaſed to Order the Buying up of all Bullion, Foreign Coyn both of Gold and Silver, together with the Ingots, grained Sand, and Duſt-Gold, (at the Currant Price,) which ſhall be brought into this Realm, by reaſon the Currant Coyn and Plate are raiſed to ſo high a Value, which will be a means that great plenty of Gold and Silver will be Imported, about Two Thirds thereof to be Coyned according to the new raiſed Value, and the other Third to be Sold in the <hi>Mint Office</hi> to the ſeveral Artificers that work therein, after their own Stock is wrought off, and diſpoſed of, at the uſual Price, ſaving the Wyer-drawers, and Gold-beaters, whoſe Work cannot be ſtamp<g ref="char:EOLhyphen"/>ed, whereby theſe ſaid Artificers may main<g ref="char:EOLhyphen"/>tain themſelves and Families, as formerly.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII.</head>
+               <p>That the raiſing of the Plate and Money of this Realm thus, will, (being forthwith put into practice,) ſpeedily raiſe Their Ma<g ref="char:EOLhyphen"/>jeſties a vaſt Fund of Money without any damage to the Owners, by reaſon the ſaid Plate and Money is not taken from them, but remains with them at a higher Value, for all Silver and Gold, Coyned, or not Coyned, are here raiſed to their Values, ſo that the unlawful Coyners cannot Counter<g ref="char:EOLhyphen"/>feit the Currant Coyn of this Kingdom with the Royal Mettals, for they will be looſers and no gainers by it, for ſhould they add any greater Allay to debaſe, (any man<g ref="char:EOLhyphen"/>ner of way,) the Money they make, which by Weighing and Gaging before mentioned, will preſently diſcover the Counterfeited Money from the Currant, therefore the rai<g ref="char:EOLhyphen"/>ſing of Money and Plate to the ſaid Value ought to be allowed of.</p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII.</head>
+               <p>For if the Currant Money and Plate be not raiſed thus, Their Majeſties would be inſufferable looſers, to change all the Clip'd and Light Money in <hi>England</hi> and <hi>Wales,</hi> and give out in lieu thereof Weighty Money, purpoſely to the Benefit of Their Majeſties Subjects, whereby this Peſtilential Evil, which has ſo long over-ſpread the Land, may be healed, and the Lives of Hundreds ſaved that would elſe follow that abominable Trade of Clipping, Fileing, Drilling, Waſh<g ref="char:EOLhyphen"/>ing, and Counterfeiting, of the Currant Money of this Kingdom, who being diſco<g ref="char:EOLhyphen"/>vered, and taken, are by the Law put to Death for the ſame, for there is hardly a Seſſions at the <hi>Old-Baily,</hi> or Aſſizes in the Countrey, but there do more or leſs of theſe Notorious Offenders ſuffer. Now for all theſe warnings they ſtill go on, and wonderfully multiply in their Numbers, their Charge ſo little to ſet up, their Profit great, and their Trade being preſently learned, which can<g ref="char:EOLhyphen"/>not be prevented but by the raiſing the Price thus upon Money and Plate, which un<g ref="char:EOLhyphen"/>doubtedly will prove an eaſement to Their Majeſties Subjects in Their Publick Taxes.</p>
+            </div>
+            <div n="14" type="part">
+               <head>XIV.</head>
+               <p>For had an Act of Parliament been made in the Reign of King <hi>Charles</hi> the Firſt, that no Clip'd Money ſhould paſs Currant in Buying and Selling, nor to be received in Payments of Money, there would have been little loſs to the Crown, for then there was ſcarce Ten Clip'd Pieces to Three Thouſand now, beſides in all the former Kings Reigns, till King <hi>Charles</hi> the Second, all the Gold was Weighed, and not other<g ref="char:EOLhyphen"/>wiſe taken, purpoſely to prevent the Waſh<g ref="char:EOLhyphen"/>ing of them light; and ever ſince the laſt Civil Wars in <hi>England</hi> Gold paſſeth with<g ref="char:EOLhyphen"/>out Weighing, inſomuch, that there is hardly to be found one old Piece of Gold but what is extreamly diminiſhed in Weight by Waſhing, unleſs hoarded up, and the Guineas begin to fall into the like Diſtemper by Fileing, Drilling, and Waſhing, of them light; and for preventing of the like Evil Practices, there is a Neceſſity, that all Pie<g ref="char:EOLhyphen"/>ces of Gold after they are Stamped, as a<g ref="char:EOLhyphen"/>foreſaid, all Receivers, or Changers of Gold, ſhould Weigh and Gage their Pieces to ſee that they agree to the ſaid Stamp, and this way will hinder the making of Gold light; and likewiſe the Crown and Half Crown Pieces of Silver to be alſo Weighed and Gaged, will alſo prevent the Counter<g ref="char:EOLhyphen"/>feiting of Money for the future. Now for all theſe Weighty Reaſons given, the Cur<g ref="char:EOLhyphen"/>rant Money and Plate ought to be raiſed to the ſaid Value.</p>
+               <p>
+                  <hi>Theſe Propoſals and Reaſons for Regulating the Currant Coyn, and for the raiſing the Value of Money and Plate of this Kingdom, is humbly Offered to the Conſiderati<g ref="char:EOLhyphen"/>on of this Honourable Aſſembly, to do therein as their great Wiſdoms ſhall think fit, for ſo Publick a Service to Their Majeſties, and Kingdom, as it will be, without Damage or Charge to any.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed, and Sold by <hi>Obediah Blagrave</hi> at the <hi>Bare</hi> in St. <hi>Paul</hi>'s <hi>Church-Yard,</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
